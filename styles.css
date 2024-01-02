@@ -1,0 +1,85 @@
+h1 , h2 {
+	text-align : center;
+	font-family: Tahoma, Verdana, sans-serif;
+}
+h1{
+	color: rgb(61, 61, 41);
+	font-size: 42px;
+}
+h2{
+	font-size : 18PX;
+	font-weight : normal;
+}
+body{
+	background-color: white;
+	width : 100%;
+}
+#main{
+	background-color : rgb(235, 235, 224);
+	width : 95%;
+	margin: auto;
+}
+div{
+	background-color : white;
+	width: 95%;
+	margin: auto;
+	height: 700px;
+	margin-bottom : 60px;
+	
+}
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+#image{
+	max-width:  100%;
+	height: auto;
+}
+#img-caption{
+	font-family: Tahoma, Verdana, sans-serif;
+	text-align: center;
+	padding-top: 20px;
+}
+#tribute-info{
+	max-width : 600px;
+	padding-left : 350px;
+	font-family: Tahoma, Verdana, sans-serif;
+	
+}
+#histimelinetitle{
+	text-align : center;
+	font-family: Tahoma, Verdana, sans-serif;
+	font-weight: bold;
+	font-size: 18px;
+	margin-bottom: 50px;
+}
+li{
+	letter-spacing: 1.5px;
+	font-weight : lighter;
+	margin-bottom: 20px;
+	line-height: 1.8;
+}
+li:last-child{
+	margin-bottom: 70px;
+}
+#qutation{
+	font-family: Tahoma, Verdana, sans-serif;
+	line-height: 1.5;
+	font-style : italic;
+}
+blockquote{
+	font-style : italic;
+	font-family: Tahoma, Verdana, sans-serif;
+}
+#refrence{
+	text-align: center;
+	font-weight: bold;
+	font-size : 20px;
+	color: rgb(61, 61, 41);
+	padding-bottom: 30px;
+}
+#tribute-link{
+	color : grey;
+}
